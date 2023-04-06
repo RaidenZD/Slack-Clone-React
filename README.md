@@ -2,7 +2,7 @@
 This project is a react slack clone that i built.\
 The user can sign in via google auth.\
 User can create channels and chat with other users.\
-The project is powered by firebase.\
+The project is powered by firebase.
 ## In This Project I Used:
 -React JS for creating the UI.\
 -Styled components for styling.\
