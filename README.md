@@ -1,3 +1,18 @@
+# About Project
+This project is a react slack clone that i built.\
+The user can sign in via google auth.\
+User can create channels and chat with other users.\
+The project is powered by firebase.\
+## In This Project I Used:
+-React JS for creating the UI.\
+-Styled components for styling.\
+-Material UI for icons.\
+-Redux toolkit for state management.\
+-React spinkit for spinners.\
+-React router for navigation between pages.\
+-Firebase for storing the data in the backend.\
+-Firebase hooks for working with firebase.
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
